@@ -2,8 +2,13 @@ Our Gym management System Website Name : Fitness Life
 We are two Authors in our project.
 1) Mohammad Hossain-2131770642
 2) Asifur Rahman-2132835642 
-______________________________________________________________________________________________________________________________
-
+__________________________________________________________________________________________
+Supervisor: 
+-Mr. Md. Ishan Arefin Hossain [IAH] 
+-Lecturer -Department of Electrical and Computer Engineering 
+-North South University -MSc in Computer Science, Teesside University, UK 
+-BSc in Computer Science and Engineering, BRAC University, Bangladesh
+__________________________________________________________________________________________
 How To Run The Project?
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).
 
