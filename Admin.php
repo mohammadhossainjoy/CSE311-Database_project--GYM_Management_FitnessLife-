@@ -1,3 +1,4 @@
+
 <?php
 
 include("connect.php");
@@ -199,6 +200,7 @@ if (isset($_POST['login']))
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
+ <script src="js/owl.carousel.min.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
 
     <script src="js/jquery.magnific-popup.min.js"></script>
